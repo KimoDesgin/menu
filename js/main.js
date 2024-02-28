@@ -6,7 +6,7 @@ let productsOne = [
     { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 235},
     { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: 220},
     { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 325},
-    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 335},
+    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 325},
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 200},
     { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 270}
 ];
@@ -31,10 +31,10 @@ let productsThree = [
     { id: 21, name: " فايبر", unit: "بكرة", price: 85},
     { id: 22, name: " معجون كناوف", unit: "شيكارة", price: 90},
     { id: 23, name: " معجون اكسترا فيل", unit: "شيكارة", price: 75},
-    { id: 24, name: " مسمار 25 كيلو", unit: "علبة", price: 125},
-    { id: 25, name: " مسمار 35 كيلو", unit: "علبة", price: 125},
-    { id: 26, name: " مسمار 25 صن شاين", unit: "علبة", price: 165},
-    { id: 27, name: " مسمار 35 صن شاين", unit: "علبة", price: 175},
+    { id: 24, name: " مسمار 25 كيلو", unit: "علبة", price: 120},
+    { id: 25, name: " مسمار 35 كيلو", unit: "علبة", price: 120},
+    { id: 26, name: " مسمار 25 صن شاين", unit: "علبة", price: 150},
+    { id: 27, name: " مسمار 35 صن شاين", unit: "علبة", price: 160},
     { id: 28, name: " مسمار تك", unit: "علبة", price: 200},
     { id: 29, name: " مسمار جنش", unit: "علبة", price: 70},
     { id: 30, name: " أكمن", unit: "علبة", price: 160},
@@ -49,9 +49,9 @@ let productsThree = [
     { id: 39, name: " صامولة ", unit: "كجم", price: 100},
     { id: 40, name: " سلك", unit: "كجم", price: 100},
     { id: 41, name: " كورنير", unit: "زاوية", price: 35},
-    { id: 42, name: " اكسسوار", unit: "متر", price: 80},
-    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 95},
-    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 100},
+    { id: 42, name: " اكسسوار", unit: "متر", price: 70},
+    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 90},
+    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 90},
 ]
 
 function displayGyps(filteredGyps) {
