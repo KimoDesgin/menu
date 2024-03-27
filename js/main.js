@@ -7,7 +7,7 @@ let productsOne = [
     { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: 250},
     
     { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 370},
-    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 325},
+    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 370},
     
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 235},
     { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 320}
