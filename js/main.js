@@ -4,7 +4,7 @@ let acc = document.querySelector('.product3');
 
 let productsOne = [
     { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 265},
-    { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: },
+    { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: " "},
     
     { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 370},
     { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 370},
