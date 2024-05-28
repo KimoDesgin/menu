@@ -356,6 +356,10 @@ hr {
     .number .pr {
         margin-left: -20PX;
     }
+    .note {
+        width: 49px !important;
+        margin-left: -33px !important;
+    }
     .number .u {
         margin-left: -20px;
     }
@@ -476,8 +480,8 @@ hr {
         margin-left: -25px;
     }
     .note {
-        width: 65px !important;
-        margin-left: -45px !important;
+        width: 49px !important;
+        margin-left: -33px !important;
     }
     .head {
         padding: 0 10px;
