@@ -476,8 +476,8 @@ hr {
         margin-left: -25px;
     }
     .note {
-        width: 65px;
-        margin-left: -15px;
+        width: 65px !important;
+        margin-left: -15px !important;
     }
     .head {
         padding: 0 10px;
