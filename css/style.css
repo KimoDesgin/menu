@@ -356,10 +356,10 @@ hr {
     .number .pr {
         margin-left: -20PX;
     }
-    .note {
+    /* .note {
         width: 49px ;
         margin-left: -33px ;
-    }
+    } */
     .number .u {
         margin-left: -20px;
     }
@@ -479,10 +479,10 @@ hr {
     .number .u {
         margin-left: -25px;
     }
-    .note {
+    /* .note {
         width: 49px ;
         margin-left: -33px ;
-    }
+    } */
     .head {
         padding: 0 10px;
     }
