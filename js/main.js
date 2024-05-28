@@ -69,7 +69,7 @@ function displayGyps(filteredGyps) {
                 <p>${product.name}</p>
                 <div class="number d-flex">
                     <p class="u">${product.unit}</p>
-                    ${product.price === " " ? `<p class="pr note" style="width: 65px; margin-left: -45px">${product.price = "غير متوفر"}</p>` : `<p class="pr">${product.price}</p>`}
+                    ${product.price === " " ? `<p class="pr note" style="width: 65px; margin-left: -50px">${product.price = "غير متوفر"}</p>` : `<p class="pr">${product.price}</p>`}
                 </div>
                 </div>
                 
