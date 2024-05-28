@@ -471,10 +471,14 @@ hr {
     .number .pr {
         margin-left: -25px;
     }
+    
     .number .u {
         margin-left: -25px;
     }
-
+    .note {
+        width: 65px;
+        margin-left: -15px;
+    }
     .head {
         padding: 0 10px;
     }
