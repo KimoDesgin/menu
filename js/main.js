@@ -60,11 +60,6 @@ let productsThree = [
     { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 90},
 ]
 
-productsOne.forEach(product => {
-    if (product.id === 2) {
-        product.note = "غير متوفر";
-    }
-});
 
 function displayGyps(filteredGyps) {
     gyps.innerHTML = ""; 
