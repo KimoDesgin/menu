@@ -60,6 +60,12 @@ let productsThree = [
     { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 90},
 ]
 
+productsOne.forEach(product => {
+    if (product.id === 2) {
+        product.note = "غير متوفر";
+    }
+});
+
 function displayGyps(filteredGyps) {
     gyps.innerHTML = ""; 
     filteredGyps.forEach(product => {
@@ -68,7 +74,7 @@ function displayGyps(filteredGyps) {
                 <p>${product.name}</p>
                 <div class="number d-flex">
                     <p class="u">${product.unit}</p>
-                    <p class="pr">${product.price}</p>
+                    ${product.price === " " ? `<p class="pr">${product.price = "غير متوفر"}</p>` : `<p class="pr">${product.price}</p>`}
                 </div>
                 </div>
                 
