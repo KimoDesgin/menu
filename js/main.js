@@ -10,7 +10,7 @@ let productsOne = [
     { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 370},
     
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 240},
-    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 315}
+    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: " "}
 ];
 
 let productsTwo = [
