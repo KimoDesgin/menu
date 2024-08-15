@@ -20,8 +20,8 @@ let productsTwo = [
     { id: 9, name: " سي 3", unit: "عود", price: 25.5},
 
     { id: 7, name: " زاوية 33", unit: "عود", price: 17.5},
-    { id: 8, name: " 3أوميجا 3", unit: "عود", price: 35},
-    { id: 9, name: " 3سي 3", unit: "عود", price: 26.25},
+    { id: 8, name: " أوميجا 33", unit: "عود", price: 35},
+    { id: 9, name: " سي 33", unit: "عود", price: 26.25},
     
     { id: 10, name: " زاوية 35", unit: "عود", price: 19.5},
     { id: 11, name: " أوميجا 35", unit: "عود", price: 39},
