@@ -3,7 +3,7 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 265},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 260},
     { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: " "},
     
     { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 370},
