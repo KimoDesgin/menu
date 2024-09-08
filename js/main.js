@@ -3,7 +3,7 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 260},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 275},
     { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: " "},
     
     { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 370},
@@ -27,9 +27,9 @@ let productsTwo = [
     { id: 11, name: " أوميجا 35", unit: "عود", price: 39},
     { id: 12, name: " سي 35", unit: "عود", price: 29.25},
     
-    { id: 13, name: " زاوية 4", unit: "عود", price: 22},
-    { id: 14, name: " أوميجا 4", unit: "عود", price: 44},
-    { id: 15, name: " سي 4", unit: "عود", price: 33},
+    { id: 13, name: " زاوية 4", unit: "عود", price: 22.5},
+    { id: 14, name: " أوميجا 4", unit: "عود", price: 45},
+    { id: 15, name: " سي 4", unit: "عود", price: 33.75},
     
     { id: 16, name: " خشن 5 سم", unit: "عود", price: 60},
     { id: 17, name: "  ناعم 5 سم", unit: "عود", price: 55},
@@ -40,14 +40,14 @@ let productsTwo = [
 let productsThree = [
     { id: 20, name: " ميتال", unit: "بكرة", price: 120},
     { id: 21, name: " فايبر", unit: "بكرة", price: 70},
-    { id: 22, name: " معجون كناوف", unit: "شيكارة", price: 85},
+    { id: 22, name: " معجون كناوف", unit: "شيكارة", price: 90},
     { id: 23, name: " معجون اكسترا فيل", unit: "شيكارة", price: 75},
     { id: 24, name: " مسمار 25 كيلو", unit: "علبة", price: 100},
     { id: 25, name: " مسمار 35 كيلو", unit: "علبة", price: 100},
-    { id: 26, name: " مسمار 25 HD", unit: "علبة", price: 130},
-    { id: 27, name: " مسمار 35 HD", unit: "علبة", price: 140},
+    { id: 26, name: " مسمار 25 HD", unit: "علبة", price: 135},
+    { id: 27, name: " مسمار 35 HD", unit: "علبة", price: 145},
     { id: 28, name: " مسمار تك", unit: "علبة", price: 150},
-    { id: 29, name: " مسمار جنش", unit: "علبة", price: 55},
+    { id: 29, name: " مسمار جنش", unit: "علبة", price: 60},
     { id: 30, name: " أكمن", unit: "علبة", price: 115},
     { id: 31, name: " فيشر", unit: "علبة", price: 5},
     { id: 32, name: " تيش مصري", unit: "عود", price: 25},
