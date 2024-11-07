@@ -3,21 +3,21 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 275},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 305},
     { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: " "},
     
-    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 370},
-    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 370},
+    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 395},
+    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 395},
     
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 240},
-    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 320},
-    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 320}
+    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 340},
+    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 340}
 ];
 
 let productsTwo = [
-    { id: 7, name: " زاوية 3", unit: "عود", price: 17},
-    { id: 8, name: " أوميجا 3", unit: "عود", price: 34},
-    { id: 9, name: " سي 3", unit: "عود", price: 25.5},
+    { id: 7, name: " زاوية 3", unit: "عود", price: 16.5},
+    { id: 8, name: " أوميجا 3", unit: "عود", price: 33},
+    { id: 9, name: " سي 3", unit: "عود", price: 24.5},
     
     { id: 7, name: " زاوية 33", unit: "عود", price: 17.5},
     { id: 8, name: " أوميجا 33", unit: "عود", price: 35},
@@ -44,25 +44,26 @@ let productsThree = [
     { id: 23, name: " معجون اكسترا فيل", unit: "شيكارة", price: 75},
     { id: 24, name: " مسمار 25 كيلو", unit: "علبة", price: 100},
     { id: 25, name: " مسمار 35 كيلو", unit: "علبة", price: 100},
-    { id: 26, name: " مسمار 25 HD", unit: "علبة", price: 135},
-    { id: 27, name: " مسمار 35 HD", unit: "علبة", price: 145},
+    { id: 26, name: " مسمار 25 باتا", unit: "علبة", price: 135},
+    { id: 27, name: " مسمار 35 فوكس", unit: "علبة", price: 145},
     { id: 28, name: " مسمار تك", unit: "علبة", price: 150},
     { id: 29, name: " مسمار جنش", unit: "علبة", price: 60},
-    { id: 30, name: " أكمن", unit: "علبة", price: 115},
+    { id: 30, name: " أكمن", unit: "علبة", price: 120},
     { id: 31, name: " فيشر", unit: "علبة", price: 5},
     { id: 32, name: " تيش مصري", unit: "عود", price: 25},
     { id: 33, name: " تيش مستورد", unit: "عود", price: 30},
     { id: 34, name: " كورنر بيد", unit: "عود", price: 25},
     { id: 35, name: " آند بيد", unit: "عود", price: 27},
-    { id: 36, name: "  شادو جاب", unit: "عود", price: 95},
+    { id: 36, name: "  3.5 شادو جاب", unit: "عود", price: 95},
+    { id: 36, name: "   0.4 شادو جاب", unit: "عود", price: 140},
     { id: 37, name: " عصفورة U", unit: "عدد", price: 1.25},
     { id: 38, name: " عصفورة L", unit: "عدد", price: 2.5},
     { id: 39, name: " صامولة ", unit: "كجم", price: 90},
     { id: 40, name: " سلك", unit: "كجم", price: 90},
     { id: 41, name: " كورنير", unit: "زاوية", price: 18},
     { id: 42, name: " اكسسوار", unit: "متر", price: 50},
-    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 95},
-    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 95},
+    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 115},
+    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 115},
 ]
 
 
