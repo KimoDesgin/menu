@@ -3,15 +3,15 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 305},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 310},
     { id: 2, name: "  جبس أبيض كناوف 2.8 م", unit: "لوح", price: " "},
     
-    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 395},
-    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 395},
+    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 400},
+    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 400},
     
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 240},
-    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 340},
-    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 340}
+    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 345},
+    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 345}
 ];
 
 let productsTwo = [
@@ -27,9 +27,9 @@ let productsTwo = [
     { id: 11, name: " أوميجا 35", unit: "عود", price: 39},
     { id: 12, name: " سي 35", unit: "عود", price: 29.25},
     
-    { id: 13, name: " زاوية 4", unit: "عود", price: 22.5},
-    { id: 14, name: " أوميجا 4", unit: "عود", price: 45},
-    { id: 15, name: " سي 4", unit: "عود", price: 33.75},
+    { id: 13, name: " زاوية 4", unit: "عود", price: 22},
+    { id: 14, name: " أوميجا 4", unit: "عود", price: 44},
+    { id: 15, name: " سي 4", unit: "عود", price: 33},
     
     { id: 16, name: " خشن 5 سم", unit: "عود", price: 60},
     { id: 17, name: "  ناعم 5 سم", unit: "عود", price: 55},
