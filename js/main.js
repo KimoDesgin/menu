@@ -16,9 +16,9 @@ let productsOne = [
 ];
 
 let productsTwo = [
-    { id: 7, name: " زاوية 3", unit: "عود", price: 16.5},
-    { id: 8, name: " أوميجا 3", unit: "عود", price: 33},
-    { id: 9, name: " سي 3", unit: "عود", price: 24.5},
+    { id: 7, name: " زاوية 3", unit: "عود", price: 16},
+    { id: 8, name: " أوميجا 3", unit: "عود", price: 32},
+    { id: 9, name: " سي 3", unit: "عود", price: 24},
     
     { id: 7, name: " زاوية 33", unit: "عود", price: 17.5},
     { id: 8, name: " أوميجا 33", unit: "عود", price: 35},
@@ -48,7 +48,7 @@ let productsThree = [
     { id: 26, name: " مسمار 25 باتا", unit: "علبة", price: 135},
     { id: 27, name: " مسمار 35 فوكس", unit: "علبة", price: 145},
     { id: 28, name: " مسمار تك", unit: "علبة", price: 140},
-    { id: 29, name: " مسمار جنش", unit: "علبة", price: 60},
+    { id: 29, name: " مسمار جنش", unit: "علبة", price: 70},
     { id: 30, name: " أكمن", unit: "علبة", price: 125},
     { id: 31, name: " فيشر", unit: "علبة", price: 5},
     { id: 32, name: " تيش مصري", unit: "عود", price: 25},
@@ -61,10 +61,11 @@ let productsThree = [
     { id: 38, name: " عصفورة L", unit: "عدد", price: 2.5},
     { id: 39, name: " صامولة ", unit: "كجم", price: 90},
     { id: 40, name: " سلك", unit: "كجم", price: 90},
-    { id: 41, name: " كورنير", unit: "زاوية", price: 18},
+    { id: 41, name: " كورنير", unit: "زاوية", price: 23},
     { id: 42, name: " اكسسوار", unit: "متر", price: 50},
-    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 115},
-    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 115},
+    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 145},
+    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 145},
+    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 135},
 ]
 
 
