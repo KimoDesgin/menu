@@ -5,13 +5,12 @@ let acc = document.querySelector('.product3');
 let productsOne = [
     { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 325},
     
-    
     { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 400},
     { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 405},
     
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 245},
     { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 345},
-    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 345}
+    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 345},
 
     { id: 2, name: "جبس أبيض عثمان ", unit: "لوح", price: 255},
 ];
