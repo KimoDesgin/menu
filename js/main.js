@@ -3,14 +3,14 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 325},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 330},
     
-    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 400},
-    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 405},
+    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 410},
+    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 410},
     
-    { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 245},
-    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 345},
-    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 345},
+    { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 260},
+    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 350},
+    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 350},
 
     { id: 2, name: "جبس أبيض عثمان ", unit: "لوح", price: 255},
 ];
@@ -45,8 +45,8 @@ let productsThree = [
     { id: 23, name: " معجون اكسترا فيل", unit: "شيكارة", price: 75},
     { id: 24, name: " مسمار 25 كيلو", unit: "علبة", price: 100},
     { id: 25, name: " مسمار 35 كيلو", unit: "علبة", price: 100},
-    { id: 26, name: " مسمار 25 باتا", unit: "علبة", price: 135},
-    { id: 27, name: " مسمار 35 فوكس", unit: "علبة", price: 145},
+    { id: 26, name: " مسمار 25 فوكس", unit: "علبة", price: 130},
+    { id: 27, name: " مسمار 35 فوكس", unit: "علبة", price: 140},
     { id: 28, name: " مسمار تك", unit: "علبة", price: 140},
     { id: 29, name: " مسمار جنش", unit: "علبة", price: 70},
     { id: 30, name: " أكمن", unit: "علبة", price: 125},
