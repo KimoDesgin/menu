@@ -3,10 +3,10 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 330},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 335},
     
-    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 410},
-    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 410},
+    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 430},
+    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 430},
     
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 260},
     { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 350},
@@ -63,9 +63,9 @@ let productsThree = [
     { id: 40, name: " سلك", unit: "كجم", price: 90},
     { id: 41, name: " كورنير", unit: "زاوية", price: 23},
     { id: 42, name: " اكسسوار", unit: "متر", price: 50},
-    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 145},
-    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 145},
-    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 135},
+    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 150},
+    { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: 150},
+    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 145},
 ]
 
 
