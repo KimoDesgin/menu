@@ -3,14 +3,14 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 350},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 340},
     
-    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 415},
-    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 415},
+    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 410},
+    { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 410},
     
-    { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 270},
-    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 350},
-    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 350},
+    { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 285},
+    { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 360},
+    { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 360},
 
     { id: 2, name: "جبس أبيض عثمان ", unit: "لوح", price: " "},
 ];
@@ -48,7 +48,7 @@ let productsThree = [
     { id: 26, name: " مسمار 25 فوكس", unit: "علبة", price: 130},
     { id: 27, name: " مسمار 35 فوكس", unit: "علبة", price: 140},
     { id: 28, name: " مسمار تك", unit: "علبة", price: 140},
-    { id: 29, name: " مسمار جنش", unit: "علبة", price: 70},
+    { id: 29, name: " مسمار جنش", unit: "علبة", price: 65},
     { id: 30, name: " أكمن", unit: "علبة", price: 125},
     { id: 31, name: " فيشر", unit: "علبة", price: 5},
     { id: 32, name: " تيش مصري", unit: "عود", price: 25},
@@ -63,9 +63,9 @@ let productsThree = [
     { id: 40, name: " سلك", unit: "كجم", price: 90},
     { id: 41, name: " كورنير", unit: "زاوية", price: 23},
     { id: 42, name: " اكسسوار", unit: "متر", price: 50},
-    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: " "},
+    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 200},
     { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: " "},
-    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 180},
+    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 200},
 ]
 
 
