@@ -54,7 +54,7 @@ let productsThree = [
     { id: 32, name: " تيش مصري", unit: "عود", price: 25},
     { id: 33, name: " تيش مستورد", unit: "عود", price: 30},
     { id: 34, name: " كورنر بيد", unit: "عود", price: 25},
-    { id: 35, name: " آند بيد", unit: "عود", price: 27},
+    { id: 35, name: " اند بيد", unit: "عود", price: 27},
     { id: 36, name: "شادوجاب 35", unit: "عود", price: 95},
     { id: 36, name: "شادوجاب 420", unit: "عود", price: 135},
     { id: 37, name: " عصفورة U", unit: "عدد", price: 1.25},
