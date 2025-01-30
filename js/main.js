@@ -3,12 +3,12 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 330},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 320},
     
     { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 400},
     { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 400},
     
-    { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 285},
+    { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 280},
     { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 360},
     { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 360},
 
@@ -65,7 +65,7 @@ let productsThree = [
     { id: 42, name: " اكسسوار", unit: "متر", price: 50},
     { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 180},
     { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: " "},
-    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 200},
+    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 180},
 ]
 
 
