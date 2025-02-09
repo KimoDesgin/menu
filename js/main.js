@@ -3,9 +3,9 @@ let m3dn = document.querySelector('.product2');
 let acc = document.querySelector('.product3');
 
 let productsOne = [
-    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 320},
+    { id: 1, name: "  جبس أبيض كناوف 3 م", unit: "لوح", price: 315},
     
-    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 400},
+    { id: 3, name: "  جبس أخضر كناوف ", unit: "لوح", price: 395},
     { id: 4, name: "جبس أحمر كناوف", unit: "لوح", price: 400},
     
     { id: 5, name: "جبس أبيض جي بورد", unit: "لوح", price: 280},
@@ -45,8 +45,8 @@ let productsThree = [
     { id: 23, name: " معجون اكسترا فيل", unit: "شيكارة", price: 75},
     { id: 24, name: " مسمار 25 كيلو", unit: "علبة", price: 100},
     { id: 25, name: " مسمار 35 كيلو", unit: "علبة", price: 100},
-    { id: 26, name: " مسمار 25 فوكس", unit: "علبة", price: 130},
-    { id: 27, name: " مسمار 35 فوكس", unit: "علبة", price: 140},
+    { id: 26, name: "مسمار 25 HD", unit: "علبة", price: 130},
+    { id: 27, name: " مسمار 35 HD", unit: "علبة", price: 140},
     { id: 28, name: " مسمار تك", unit: "علبة", price: 140},
     { id: 29, name: " مسمار جنش", unit: "علبة", price: 65},
     { id: 30, name: " أكمن", unit: "علبة", price: 100},
@@ -60,12 +60,12 @@ let productsThree = [
     { id: 37, name: " عصفورة U", unit: "عدد", price: 1.25},
     { id: 38, name: " عصفورة L", unit: "عدد", price: 2.5},
     { id: 39, name: " صامولة ", unit: "كجم", price: 90},
-    { id: 40, name: " سلك", unit: "كجم", price: 90},
-    { id: 41, name: " كورنير", unit: "زاوية", price: 23},
+    { id: 40, name: " سلك", unit: "كجم", price: 80},
+    { id: 41, name: " كورنير", unit: "زاوية", price: 22},
     { id: 42, name: " اكسسوار", unit: "متر", price: 50},
-    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 180},
+    { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 160},
     { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: " "},
-    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 180},
+    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 160},
 ]
 
 
