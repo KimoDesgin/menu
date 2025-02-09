@@ -12,7 +12,7 @@ let productsOne = [
     { id: 6, name: "جبس أخضر جي بورد", unit: "لوح", price: 360},
     { id: 6, name: "جبس أحمر جي بورد", unit: "لوح", price: 360},
 
-    { id: 2, name: "جبس أبيض عثمان ", unit: "لوح", price: " "},
+ //{ id: 2, name: "جبس أبيض عثمان ", unit: "لوح", price: " "},
 ];
 
 let productsTwo = [
@@ -65,7 +65,7 @@ let productsThree = [
     { id: 42, name: " اكسسوار", unit: "متر", price: 50},
     { id: 43, name: " بلاطات ديكوراما 7 مم", unit: "متر", price: 160},
     { id: 44, name: " بلاطات سادة 7 مم", unit: "متر", price: " "},
-    { id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 160},
+    //{ id: 44, name: " بلاطات بامبو 7 مم", unit: "متر", price: 160},
 ]
 
 
